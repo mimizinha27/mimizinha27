@@ -1,16 +1,14 @@
-## Hi there 👋
+🌹*Seja Bem-Vinda(o)*🌹
 
-<!--
-**mimizinha27/mimizinha27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Milene mas todos me chamam de mih ^_^
 
-Here are some ideas to get you started:
+- Estou estudando na Alura start.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Ultilizo este espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos.
+
+# Você pode entrar em contato comigo pelo meu 📧
+
+00001107826226sp@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/AF37i3QTnawAAAAC/bibble-barbie.gif)
