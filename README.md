@@ -1,8 +1,8 @@
-🌹*Seja Bem-Vinda(o)*🌹
+### 🌹*Seja Bem-Vinda(o) ao meu perfil*🌹
 
-- Meu nome é Milene mas todos me chamam de mih ^_^
+ _Meu nome é Milene mas todos me chamam de mih_ ^_^
 
-- Estou estudando na Alura start.
+- Estou estudando da plataforma [Alura](https://www.alura.com.br)
 
 - Ultilizo este espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos.
 
